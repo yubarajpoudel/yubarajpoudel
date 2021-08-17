@@ -1,10 +1,10 @@
 <div align="center">
-  <h1> Hello &lt;/World&gt; <img src="https://media.giphy.com/media/l3q2GDh3wQqVWSiGY/giphy.gif" width="25px"></h1>
+  <h1> Hello &lt;/World&gt; 👋</h1>
 </div>
  
 <p align='center'> 
 <a href="https://www.linkedin.com/in/yubarajpoudel/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/bee_sec_san"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/yubarajcoder"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://yubarajblog.medium.com/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 
 
